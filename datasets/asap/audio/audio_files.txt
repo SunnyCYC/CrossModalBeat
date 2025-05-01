@@ -1,0 +1,7 @@
+/home/ALABSAD/sunnycyc/GroupMM/AL_Work/WorkCC/projects/dual-domain-beat/repo2release/datasets/asap/audio/Beethoven_Piano_Sonatas_32-1_HouY04M.wav
+/home/ALABSAD/sunnycyc/GroupMM/AL_Work/WorkCC/projects/dual-domain-beat/repo2release/datasets/asap/audio/Bach_Fugue_bwv_848_Zhou01M.wav
+/home/ALABSAD/sunnycyc/GroupMM/AL_Work/WorkCC/projects/dual-domain-beat/repo2release/datasets/asap/audio/Bach_Prelude_bwv_854_LuA01M.wav
+/home/ALABSAD/sunnycyc/GroupMM/AL_Work/WorkCC/projects/dual-domain-beat/repo2release/datasets/asap/audio/Rachmaninoff_Preludes_op_23_4_ChenGuang12M.wav
+/home/ALABSAD/sunnycyc/GroupMM/AL_Work/WorkCC/projects/dual-domain-beat/repo2release/datasets/asap/audio/Liszt_Hungarian_Rhapsodies_6_LiA09M.wav
+/home/ALABSAD/sunnycyc/GroupMM/AL_Work/WorkCC/projects/dual-domain-beat/repo2release/datasets/asap/audio/Liszt_Transcendental_Etudes_5_Wang06M.wav
+/home/ALABSAD/sunnycyc/GroupMM/AL_Work/WorkCC/projects/dual-domain-beat/repo2release/datasets/asap/audio/Bach_Fugue_bwv_860_YoungS01M.wav
