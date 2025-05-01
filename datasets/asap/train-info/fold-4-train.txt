@@ -1,0 +1,3 @@
+./datasets/asap/audio/Bach_Fugue_bwv_860_YoungS01M.wav
+./datasets/asap/audio/Bach_Prelude_bwv_854_LuA01M.wav
+./datasets/asap/audio/Beethoven_Piano_Sonatas_32-1_HouY04M.wav
