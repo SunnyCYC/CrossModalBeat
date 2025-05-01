@@ -146,7 +146,6 @@ def main():
         'learning-rate': 1e-3, 
         'patience': 20, 
         'optimizer': 'Lookahead-Adam', 
-        'class-weight-type': 'sklearn', # or manual [1, 67]
         
         }
     #### set up feature folder based on audio sampling rate, and feature hopsize
