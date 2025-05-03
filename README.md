@@ -70,12 +70,17 @@ The following table presents the beat tracking results of pretrained ABTs derive
 /dbeatdataset.py](https://github.com/SunnyCYC/CrossModalBeat/blob/main/train_modules/dbeatdataset.py)), you may have to create another environment using earlier python versions to install madmom. You may follow: https://pypi.org/project/madmom/
 
 #### References
-*[1] Krebs, F., Böck, S., and Widmer, G. (2015). An efficient state-space model for joint tempo and meter tracking. In Proceedings of the International Society for Music Information Retrieval Conference (ISMIR) (pp. 72–78).
-[2] Böck, S., Krebs, F., and Widmer, G. (2016b). Joint beat and downbeat tracking with recurrent neural networks. In Proceedings of the International Society for Music Information Retrieval Conference (ISMIR), New York City,
-New York, USA (pp. 255–261).
-[3] Ellis, D. P. (2007). Beat tracking by dynamic programming. Journal of New Music Research, 36(1), 51–60
-[4] Foscarin, F., McLeod, A., Rigaux, P., Jacquemard, F., and Sakai, M. (2020). ASAP: A dataset of aligned scores and performances for piano transcription. In Proceedings of the International Society for Music Information Retrieval Conference (ISMIR) (pp. 534–541).*
+*[1] Krebs, F., Böck, S., and Widmer, G. (2015). An efficient state-space model for joint tempo and meter tracking. In Proceedings of the International Society for Music Information Retrieval Conference (ISMIR) (pp. 72–78).*
+
+*[2] Böck, S., Krebs, F., and Widmer, G. (2016b). Joint beat and downbeat tracking with recurrent neural networks. In Proceedings of the International Society for Music Information Retrieval Conference (ISMIR), New York City, New York, USA (pp. 255–261).*
+
+*[3] Ellis, D. P. (2007). Beat tracking by dynamic programming. Journal of New Music Research, 36(1), 51–60.*
+
+*[4] Foscarin, F., McLeod, A., Rigaux, P., Jacquemard, F., and Sakai, M. (2020). ASAP: A dataset of aligned scores and performances for piano transcription. In Proceedings of the International Society for Music Information Retrieval Conference (ISMIR) (pp. 534–541).*
+
 *[5] Chiu, C.-Y., Müller, M., Davies, M. E. P., Su, A. W.-Y., and Yang, Y.-H. (2023). Local periodicity-based beat tracking for expressive classical piano music. IEEE/ACM Transactions on Audio, Speech, and Language Processing, 31, 2824–2835.*
+
 *[6] McFee, B., Raffel, C., Liang, D., Ellis, D. P., McVicar, M., Battenberg, E., and Nieto, O. (2015). Librosa: Audio and music signal analysis in Python. In Proceedings the Python Science Conference, Austin, Texas, USA (pp. 18–25).*
+
 *[7] Müller, M. and Zalkow, F. (2021). libfmp: A Python Package for Fundamentals of Music Processing. Journal of Open Source Software (JOSS), 6(63).*
 
