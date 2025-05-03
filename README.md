@@ -9,6 +9,7 @@ This is the repository of the TISMIR paper, *Cross-Modal Approaches to Beat Trac
 1. Overview of the system:
 
 The following Figure shows the overview of the conceptual overview of the proposed cross-modal approach, featureing two branches: the audio/frame-based branch (left) and the symbolic/event-based branch (right). In the paper, we focused on frame-based representation (left) and ultilize event-to-frame (E2F) conversion to convert event-based symbolic activations into frame-based for further fusion and post-processing. In this repo, we detail the omitted frame-to-event conversion (F2E), converting the frame-based audio activation functions into event-based representation for further event-based fusion. Note that this part was omitted in the paper due to relatively limited insights and the word count of the paper. To concepually complete the whole picture, we shift the methods and preliminary results to this repo.
+
 <img src="figs/system_overview.png" alt="system_overview" width="300">
 
 3. F2E conversion:
