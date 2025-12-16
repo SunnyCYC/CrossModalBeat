@@ -72,6 +72,10 @@ The following table presents the beat tracking results of pretrained ABTs derive
 * It is suggested to have one environment following the SBT training (https://github.com/cheriell/CrossModalBeat-Symbolic). And to prepare the audio features for training ABTs ([train_modules
 /dbeatdataset.py](https://github.com/SunnyCYC/CrossModalBeat/blob/main/train_modules/dbeatdataset.py)), you may have to create another environment using earlier python versions to install madmom. You may follow: https://pypi.org/project/madmom/
 
+## License
+
+This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE) file for details.
+
 #### References
 *[1] Krebs, F., Böck, S., and Widmer, G. (2015). An efficient state-space model for joint tempo and meter tracking. In Proceedings of the International Society for Music Information Retrieval Conference (ISMIR) (pp. 72–78).*
 
