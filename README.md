@@ -74,7 +74,7 @@ The following table presents the beat tracking results of pretrained ABTs derive
 
 ## License
 
-This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE.txt) file for details.
 
 #### References
 *[1] Krebs, F., Böck, S., and Widmer, G. (2015). An efficient state-space model for joint tempo and meter tracking. In Proceedings of the International Society for Music Information Retrieval Conference (ISMIR) (pp. 72–78).*
